@@ -30,3 +30,4 @@ Welcome to the **Inventory Management App**, a lightweight desktop application b
 
 ```python
 self.setWindowIcon(QIcon("icon.ico"))
+```
